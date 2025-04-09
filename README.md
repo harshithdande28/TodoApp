@@ -4,9 +4,10 @@
 ### All the tasks are listed at the bottom for better UI experience.
 
 # How to run
-### Install git
-### Install node from here https://nodejs.org/en/download and follow the instructions.
-### Create a folder and navigate into it.
+### Install gitbash, VsCode, node
+### Create a folder and open with VsCode
+## Follow the commands
+### git clone https://github.com/harshithdande28/TodoApp.git
 ### npm install
-### 
+### npm run dev
 
