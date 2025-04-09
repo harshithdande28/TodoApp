@@ -7,7 +7,7 @@
 ### Install gitbash, VsCode, node
 ### Create a folder and open with VsCode
 ## Follow the commands
-### git clone https://github.com/harshithdande28/TodoApp.git
-### npm install
-### npm run dev
+### -> git clone https://github.com/harshithdande28/TodoApp.git
+### -> npm install
+### -> npm run dev
 
